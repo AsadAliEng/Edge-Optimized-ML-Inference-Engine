@@ -470,7 +470,7 @@ This project is licensed under the **MIT License**. See the `LICENSE.md` file fo
 For questions or feedback:
 
 - GitHub: [@AsadAliEng](https://github.com/AsadAliEng)
-- Email: [asadali.cryptoeng@gmail.com](mailto:asadali.cryptoeng@gmail.com)
+- Email: [asadalieng1107@gmail.com](mailto:asadalieng1107@gmail.com)
 
 ---
 
@@ -491,7 +491,7 @@ This README package was structured for the repository **Edge-Optimized-ML-Infere
     <td>
       <strong>AI, Blockchain & Software Engineer</strong><br><br>
       🐙 GitHub: <a href="https://github.com/AsadAliEng">@AsadAliEng</a><br>
-      📧 Email: <a href="mailto:asadali.cryptoeng@gmail.com">asadali.cryptoeng@gmail.com</a><br>
+      📧 Email: <a href="mailto:asadalieng1107@gmail.com">asadalieng1107@gmail.com</a><br>
       🚀 Focus: intelligent systems, applied machine learning, AI security, Web3 products, automation, and production-oriented engineering
     </td>
   </tr>
